@@ -8,7 +8,7 @@
 
 |논문명|발표자|
 |---|---|
-|Very Deep Convolutional Networks for Large-Scale Image Recognition|[문경환](https://github.com/drmoon-1st/Paper-Review/blob/main/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition/VGGNet.pdf)|
+|StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation|[문경환](https://github.com/drmoon-1st/Paper-Review/blob/main/StarGAN%3A%20Unified%20Generative%20Adversarial%20Networks%20for%20Multi-Domain%20Image-to-Image%20Translation/StarGAN.pdf)|
 
 
 # 멤버
