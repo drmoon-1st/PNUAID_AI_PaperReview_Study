@@ -1,23 +1,23 @@
-# 스터디명
+# 인공지능 논문 리딩/리뷰 스터디
 
 # 규칙
 ex) <br>
-매주 금요일 2시
+시간 등 추후 결정
 
 ## 발표 내용
-```
-ex)
-|챕터|링크|
+
+|논문명|발표자|
 |---|---|
-|Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
-|챕터|[챕터명](링크)|
-```
-## 질문
-[질문 템플릿](./question/README.md)
+|Very Deep Convolutional Networks for Large-Scale Image Recognition|[문경환](https://github.com/drmoon-1st/Paper-Review/blob/main/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition/VGGNet.pdf)|
+
 
 # 멤버
-```
-ex)
-- [안소희](https://github.com/soheean1370)
-- [이름](깃허브 링크)
-```
+
+- [문경환](https://github.com/drmoon-1st)
+- [이동훈](깃허브 링크)
+- [최지훈](깃허브 링크)
+- [조현성](깃허브 링크)
+- [오지현](깃허브 링크)
+- [염현석](깃허브 링크)
+- [최민혜](깃허브 링크)
+- [김선우](깃허브 링크)
