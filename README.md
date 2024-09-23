@@ -15,7 +15,7 @@
 
 - [문경환](https://github.com/drmoon-1st)
 - [이동훈](https://github.com/bluelemon61)
-- [최지훈](깃허브 링크)
+- [최지훈](https://github.com/zihoonman)
 - [조현성](깃허브 링크)
 - [오지현](https://github.com/zeehy)
 - [염현석](깃허브 링크)
