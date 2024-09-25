@@ -20,4 +20,4 @@
 - [오지현](https://github.com/zeehy)
 - [염현석](깃허브 링크)
 - [최민혜](https://github.com/minhyech)
-- [김선우](깃허브 링크)
+- [김선우](https://github.com/sunwkim00)
