@@ -10,7 +10,7 @@
 
 |논문명|발표자|
 |---|---|
-|Deep Residual Learning for Image Recognition|[문경환](./pdfs/Deep Residual Learning for Image Recognition.pdf)|
+|Deep Residual Learning for Image Recognition|[문경환](pdfs/Deep Residual Learning for Image Recognition.pdf)|
 |ex)StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation|[문경환](https://github.com/drmoon-1st/Paper-Review/blob/main/StarGAN%3A%20Unified%20Generative%20Adversarial%20Networks%20for%20Multi-Domain%20Image-to-Image%20Translation/StarGAN.pdf)|
 
 
