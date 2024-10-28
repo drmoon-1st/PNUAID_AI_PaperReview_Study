@@ -21,6 +21,6 @@
 - [최지훈](https://github.com/zihoonman)
 - [조현성](https://github.com/hyunsung1221)
 - [오지현](https://github.com/zeehy)
-- [염현석](깃허브 링크)
+- [염현석](youm5311@gmail.com)
 - [최민혜](https://github.com/minhyech)
 - [김선우](https://github.com/sunwkim00)
