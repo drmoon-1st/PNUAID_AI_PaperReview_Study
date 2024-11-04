@@ -6,7 +6,7 @@
 - 발표 제외자는 댓글 작성
 - 못오시는 분들 포함
 
-## 발표 내용
+# 발표 내용(커멘트는 [link](https://github.com/drmoon-1st/PNUAID_AI_PaperReview_Study/tree/main/comments)에서 확인)
 
 |논문명|발표자|
 |---|---|
