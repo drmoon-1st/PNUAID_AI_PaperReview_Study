@@ -11,8 +11,8 @@
 |논문명|발표자|
 |---|---|
 |Deep Residual Learning for Image Recognition|[문경환](pdfs/Deep_Residual_Learning_for_Image_Recognition.pdf)|
+|Attention Is All You Need|[문경환](pdfs/Attention_is_all_you_need.pdf)|
 |ex)StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation|[문경환](https://github.com/drmoon-1st/Paper-Review/blob/main/StarGAN%3A%20Unified%20Generative%20Adversarial%20Networks%20for%20Multi-Domain%20Image-to-Image%20Translation/StarGAN.pdf)|
-
 
 # 멤버
 
