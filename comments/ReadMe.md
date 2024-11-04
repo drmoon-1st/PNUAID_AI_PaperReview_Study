@@ -1,5 +1,5 @@
 # [Deep Residual Learning for Image Recognition(문경환)](../pdfs/Deep_Residual_Learning_for_Image_Recognition.pdf)
-* 동훈: identity 값인 input `x`가 단순히 layer를 통과하면서 `gradient vanishing`을 방지하거나 사라진 초기의 기억을 계속 전파할 수 있게 하는 역할로 생각했어요. 논문을 다시 읽어보니 F(x)의 아웃풋을 H(x)가 아닌 `H(x)-x`로 제한을하면서 각 Residual block이 자신만의 작은 목표에 집중하도록 만드는 것 같네요! x를 미분하면 1이니까 연산도 쉬워지니까 일석이조인 것 같습니다!
+* <strong>동훈</strong>: identity 값인 input `x`가 단순히 layer를 통과하면서 `gradient vanishing`을 방지하거나 사라진 초기의 기억을 계속 전파할 수 있게 하는 역할로 생각했어요. 논문을 다시 읽어보니 F(x)의 아웃풋을 H(x)가 아닌 `H(x)-x`로 제한을하면서 각 Residual block이 자신만의 작은 목표에 집중하도록 만드는 것 같네요! x를 미분하면 1이니까 연산도 쉬워지니까 일석이조인 것 같습니다!
 
 * 지현: 이번 세미나는 "Deep Residual Learning for Image Recognition" 논문을 중심으로 진행되었습니다. 이 논문은 기존의 신경망 모델들이 깊이를 증가시킬 때 발생하는 `degradation problem`을 해결하기 위해 `Residual Learning`을 도입한 연구입니다. 층이 깊어질수록 최적화가 어려워지고, 성능이 저하되는 문제를 해결하기 위해 저자들은 각 레이어가 `잔차 함수` (residual function)을 학습하도록 설계하고, 이로 인해 `identity mapping` 을 활용한 효율적인 학습을 가능하게 합니다. 해당 방식은 네트워크가 훨씬 깊어지더라도 안정적인 학습을 가능하게 하여, 점점 더 깊고 정밀한 구조로 발전하는 최근 딥러닝 모델들에 매우 유용하게 적용될 것 같습니다. 좋은 발표 감사합니다.
 
