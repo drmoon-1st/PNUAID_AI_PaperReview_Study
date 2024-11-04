@@ -14,7 +14,7 @@ Abstract 더 많은 층을 가진 신경망 알고리즘의 학습을 위해 Res
 # [Attention Is All You Need(문경환)](../pdfs/Attention_is_all_you_need.pdf)
 > * hi
 
-# [SupCon-MPL-DP Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection(문경환)](../pdfs/supcon_mpl.pdf)
+# [SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection(문경환)](../pdfs/supcon_mpl.pdf)
 > * hi
 
 # [Paper name](../pdfs/name)
