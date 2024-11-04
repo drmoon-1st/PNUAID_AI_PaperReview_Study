@@ -11,11 +11,10 @@ Abstract 더 많은 층을 가진 신경망 알고리즘의 학습을 위해 Res
 기존 모델에 비해 층이 적을때는 차이가 적지만, 층이 많아질수록 서로의 독립성이 사라져 오류확률이 줄어듬.
 결론, resnet이 기존 모델보다 효율적이다!
 
+* <strong>현석</strong>: resnet 논문 커멘트 neural networks 가 깊어 질수록 성능은 좋아지지만 train이 어렵다 따라서 잔차를 이용하여 잔차학습(residual learning)을 이용하여 깊은 신경망에서도 training이 쉽게 이뤄진다는 것이 정말 신기했다
+
 # [Attention Is All You Need(문경환)](../pdfs/Attention_is_all_you_need.pdf)
 > * hi
 
 # [SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection(문경환)](../pdfs/supcon_mpl.pdf)
-> * hi
-
-# [Paper name](../pdfs/name)
-> * name: content
+> * 예시 논문으로 커멘트 없음.
