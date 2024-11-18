@@ -13,7 +13,7 @@
 |Deep Residual Learning for Image Recognition|[문경환](pdfs/Deep_Residual_Learning_for_Image_Recognition.pdf)|
 |Attention Is All You Need|[문경환](pdfs/Attention_is_all_you_need.pdf)|
 |SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection|[문경환](pdfs/supcon_mpl.pdf)|
-|GAN_Generative-Adversarial-Nets|[최민혜](https://arxiv.org/pdf/1406.2661)|
+|GAN: Generative-Adversarial-Nets|[최민혜](https://arxiv.org/pdf/1406.2661)|
 |Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks|[오지현](https://arxiv.org/pdf/1506.01497)|
 
 # 멤버
